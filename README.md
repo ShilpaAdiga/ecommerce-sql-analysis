@@ -1,5 +1,11 @@
 # E-Commerce Insights with SQL & Python
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![SQLite](https://img.shields.io/badge/Database-SQLite-orange?logo=sqlite)
+![Pandas](https://img.shields.io/badge/Library-pandas-yellow?logo=pandas)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 ### 📌 Overview
 Analyzed an e-commerce dataset using SQL (SQLite) and Python (Pandas).  
 Extracted key business insights like total revenue, top products, and monthly trends.
@@ -26,7 +32,10 @@ Extracted key business insights like total revenue, top products, and monthly tr
 5. **Average Order Value:** $159.58
 
 ### 📊 Sample Chart
-![Monthly Revenue Trend](<img src="images/revenue_trend.png" alt="Monthly Revenue Trend" width="600">)
+<h3>📊 Sample Chart</h3>
+<p align="center">
+  <img src="images/revenue_trend.png" alt="Monthly Revenue Trend" width="600">
+</p>
 
 ### 📂 Files
 - `queries.sql` → contains SQL queries  
