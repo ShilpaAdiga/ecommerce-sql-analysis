@@ -26,7 +26,7 @@ Extracted key business insights like total revenue, top products, and monthly tr
 5. **Average Order Value:** $159.58
 
 ### 📊 Sample Chart
-![Monthly Revenue Trend](images/revenue_trend.png)
+![Monthly Revenue Trend](<img src="images/revenue_trend.png" alt="Monthly Revenue Trend" width="600">)
 
 ### 📂 Files
 - `queries.sql` → contains SQL queries  
@@ -34,4 +34,11 @@ Extracted key business insights like total revenue, top products, and monthly tr
 
 ### 🌐 Project Type
 Data Analysis | SQL | Python
+
+## 📋 How to Reproduce
+1. Clone repo  
+2. Open `analysis.ipynb` in Jupyter Lab / Notebook  
+3. Run each cell  
+4. Make sure dependencies (pandas, matplotlib, sqlite3) are installed  
+5. Chart image will be generated auto in `images/` folder or whichever directory coded in notebook  
 
