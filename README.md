@@ -1,10 +1,7 @@
 # E-Commerce Insights with SQL & Python  
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)  
-![SQLite](https://img.shields.io/badge/Database-SQLite-orange?logo=sqlite)  
-![Pandas](https://img.shields.io/badge/Library-pandas-yellow?logo=pandas)  
-![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)  
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![SQLite](https://img.shields.io/badge/Database-SQLite-orange?logo=sqlite) ![Pandas](https://img.shields.io/badge/Library-pandas-yellow?logo=pandas) ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## 📌 Overview  
 This project analyzes an **e-commerce orders dataset** using **SQL (SQLite)** and **Python (Pandas)**.  
